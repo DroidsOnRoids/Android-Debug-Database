@@ -5,13 +5,15 @@ build/
 # Local configuration file (sdk path, etc)
 local.properties
 
-# Android Studio generated folders
+# Log Files
+*.log
+
+# Android Studio captures folder
 captures/
-.externalNativeBuild
 
-# IntelliJ project files
+# Intellij
 *.iml
-.idea/
+.idea/**/*
 
-# Misc
-.DS_Store
+# MacOS folder properties
+*.DS_STORE
