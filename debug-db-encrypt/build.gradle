@@ -1,6 +1,3 @@
-plugins {
-    id 'maven-publish'
-}
 apply plugin: 'com.android.library'
 
 android {
