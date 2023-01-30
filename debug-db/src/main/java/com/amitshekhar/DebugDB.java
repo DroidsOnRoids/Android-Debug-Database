@@ -25,6 +25,7 @@ import android.util.Pair;
 
 import androidx.sqlite.db.SupportSQLiteDatabase;
 
+import com.amitshekhar.debug.R;
 import com.amitshekhar.server.ClientServer;
 import com.amitshekhar.sqlite.DBFactory;
 import com.amitshekhar.utils.NetworkUtils;

@@ -17,4 +17,4 @@
  *
  */
 
-include ':sample-app', ':debug-db-base', ':debug-db'
+include ':sample-app', ':debug-db'
